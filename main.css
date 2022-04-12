@@ -18,7 +18,7 @@ body,html{
 
 body{
   font-size:1.3em;
-  background: linear-gradient(rgba(0, 0, 0,0.75), rgba(0, 0, 0, 0.95)), url(https://hellpcfiles.files.wordpress.com/2017/04/top-10-geek-desktop-wallpapers-free-download-7.jpg)
+  background: linear-gradient(rgba(0, 0, 0,0.75), rgba(0, 0, 0, 0.95)), url(https://github.com/thecatiscating/surveyforcca/blob/96370566504a6c4c03fe4838260127b654471e5e/2020-08-09.jpg)
     center no-repeat fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -156,7 +156,7 @@ footer {
 
 @media only screen and (max-width: 768px) {
   body{
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://hellpcfiles.files.wordpress.com/2017/04/top-10-geek-desktop-wallpapers-free-download-7.jpg) center no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://github.com/thecatiscating/surveyforcca/blob/96370566504a6c4c03fe4838260127b654471e5e/2020-08-09.jpg) center no-repeat fixed;
   background-size: cover;
 }
   
